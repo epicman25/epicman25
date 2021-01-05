@@ -6,7 +6,7 @@
  -🌱 I’m currently learning Cryptography and Web Exploitation
  
  
- -📫 How to reach me: gmail-tejeshwarreddydevalapalli@gmail.com ,Twitter - [@Tejesh2508](https://twitter.com/Tejesh2508 "Tejesh2508"),Linkedin - [Tejeshwar Reddy Devalapalli](https://www.linkedin.com/in/tejeshwar-reddy-a85b4b1b1/ "Tejeshwar Reddy Devalapalli")
+ -📫 How to reach me: gmail - tejeshwarreddydevalapalli@gmail.com ,Twitter - [@Tejesh2508](https://twitter.com/Tejesh2508 "Tejesh2508"),Linkedin - [Tejeshwar Reddy Devalapalli](https://www.linkedin.com/in/tejeshwar-reddy-a85b4b1b1/ "Tejeshwar Reddy Devalapalli")
  
  
  -⚡ Fun fact: I dont know why I hate sleep.But I hate it

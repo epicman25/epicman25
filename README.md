@@ -17,4 +17,4 @@
 ![Tejeshwar's github stats](https://github-readme-stats.vercel.app/api?username=epicman25&show_icons=true&theme=highcontrast)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicman25)](https://github.com/epicman25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicman25&hide=dart)](https://github.com/epicman25/github-readme-stats)

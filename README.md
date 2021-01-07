@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### This is Tejeshwar Reddy Devalapalli 
 
- -🔭 I’m currently working on Web Development and fileds of Cyber Security
+ -🔭 I’m currently working on Web Development and fileds of Cyber Security.
  
  -🌱 I’m currently learning Cryptography and Web Exploitation
  

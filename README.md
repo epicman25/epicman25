@@ -58,6 +58,13 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=03cffc)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
+
+<hr>
+
+[![@epicman25's Holopin board](https://holopin.me/epicman25)](https://holopin.io/@epicman25)
+
+
+
 <hr>
 
 

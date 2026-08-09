@@ -100,8 +100,8 @@
 <a target="blank" href="https://tejeshwar.dev"><img src="https://img.shields.io/badge/-tejeshwar.dev-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a target="blank" href="https://www.linkedin.com/in/devalapallitejeshwarreddy/"><img src="https://img.shields.io/badge/-Tejeshwar%20Reddy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a target="blank" href="mailto:tejeshwarreddydevalapalli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a target="blank" href="https://www.codechef.com/users/epicman25"><img src="https://img.shields.io/badge/-epicman25-000000?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a target="blank" href="https://twitter.com/ep1cman25"><img src="https://img.shields.io/badge/-ep1cman25-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-epicman25-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: epicman25"/>
 </p>
 
 <div align="center">

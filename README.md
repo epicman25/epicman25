@@ -57,22 +57,7 @@
 
 <hr>
 
-## 🏆 Trophy Cabinet
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=epicman25&theme=tokyonight&no-frame=true&column=7)](https://github.com/epicman25)
-
-</div>
-
-<hr>
-
 ## 📊 Stats Corner
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=epicman25&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" width="49%" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicman25&layout=compact&hide=JavaScript,Dart&theme=tokyonight" width="41%" alt="Top languages">
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=epicman25&theme=tokyonight" alt="GitHub streak">
